@@ -17,7 +17,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="ABANTE.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",Abante TV
 https://streams.comclark.com/transcodesd/abante/playlist.m3u8
-#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/rGAOD3f.png",Cinemo
+#EXTINF:-1 tvg-id="CINEMO.ph" tvg-logo="https://i.imgur.com/rGAOD3f.png",Cinemo
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2021/02/23133023/gtv-logo-300x300.png",GTV
 https://streams.comclark.com/pknsd/gtv/playlist.m3u8
